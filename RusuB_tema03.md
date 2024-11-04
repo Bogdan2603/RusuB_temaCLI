@@ -138,7 +138,7 @@ private int colorChannel = 0; // 0 = Red, 1 = Green, 2 = Blue
 
 ***********
 
-9.
+10.
 
 Utilizarea unor culori diferite pentru fiecare vertex în desenarea unei linii sau triunghiuri în modul strip permite:
 
