@@ -11,8 +11,6 @@ Directiva LineStrip: Desenează o linie continuă între toate punctele.
 Directiva TriangleFan: Desenează triunghiuri folosind un punct comun și toate punctele adiacente.
 Directiva TriangleStrip: Desenează o secvență de triunghiuri unde fiecare triunghi împarte două vârfuri cu cel anterior.
 
-5.Proiect elementar: Proiectul de bază va ilustra modurile de desenare folosind exemplul demonstrativ „OpenGL_conn_ImmediateMode” și va seta viewport-ul corect.
-
 6.Culori diferite la obiecte 3D: Utilizarea culorilor diverse ajută la diferențierea fețelor și contururilor obiectelor, oferind un aspect mai realist.
 
 7.Gradient de culoare: Gradientul este o trecere lină între culori. În OpenGL, gradientul se creează setând culori diferite pentru fiecare vârf.
